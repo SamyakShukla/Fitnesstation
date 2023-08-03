@@ -6,6 +6,8 @@ You can click on any exercise to see its animation in full view and also youtube
 
 Not only that in the details section you will get exercises regarding the same muscle group as well as exercises utilizing the same equipment below the youtube videos displayed.
 
-It makes use of ExerciseDb API for exercises details along with Youtube search and Download API for displaying Youtube Videos.
+It makes use of ExerciseDb API for fetching exercises details along with Youtube search and Download API for displaying Youtube Videos. All these API's are from Rapid API.
+
+Tech used: React JS, REST API's, Material UI.
 
 It is Hosted at : https://fitnesstation.netlify.app/
